@@ -187,7 +187,7 @@ When fuzzy search is enabled, the tags/bookmarks that contain the query letters 
 ---
 
 ## Misc.<a name="misc"></a>
-- Workflow will check for newever version of itself every 24 hours. This check only takes place when you actually use one of its keywords (no background service is ever used). You can also manually check for updates using `pcheck`.
+- Workflow will check for newer version of itself every 24 hours. This check only takes place when you actually use one of its keywords (no background service is ever used). You can also manually check for updates using `pcheck`.
 
 ![image](./res/images/upgrade_available.png)
 
